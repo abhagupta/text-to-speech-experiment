@@ -1,0 +1,17 @@
+{
+  "name": "text-to-voice-exp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "afplay": "^1.0.3",
+    "chokidar": "^1.6.1",
+    "download-file": "^0.1.5",
+    "google-tts-api": "0.0.1"
+  }
+}
